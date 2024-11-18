@@ -1,2 +1,5 @@
-# Capstone_2_Waffentragers
-Waffenträger Capstone PrOjEcT (BSIT 4A)
+<<<<<<< HEAD
+# Remote version content
+=======
+# Local version content
+>>>>>>> 6e18800... 1st Commit
